@@ -1,4 +1,4 @@
-package com.itsvickie.registrygenerator;
+package com.itsvickie.registygenerator;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.itsvickie.registrygenerator", appContext.getPackageName());
+        assertEquals("com.itsvickie.registygenerator", appContext.getPackageName());
     }
 }

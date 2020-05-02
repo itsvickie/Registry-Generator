@@ -1,4 +1,4 @@
-package com.itsvickie.registrygenerator;
+package com.itsvickie.registygenerator;
 
 import org.junit.Test;
 
