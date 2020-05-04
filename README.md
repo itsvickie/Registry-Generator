@@ -4,7 +4,7 @@ A biblioteca Registry-Generator gera automaticamente registros, levando como par
 
 ## Instalação
 
-Em breve.
+Em breve a lib estará sendo postada ;)
 
 ## Uso
 
